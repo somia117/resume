@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets"/"profile_pic.JPG"
 
 PAGE_TITLE = "Digital CV | Somia Jain"
 PAGE_ICON = ":wave:"
-NAME = "Somia Kumari Jain"
+NAME = "Somia Jain"
 DESCRIPTION =  """
 Aspirant Data Scientist
 """
